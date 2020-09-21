@@ -1,0 +1,14 @@
+D:\Documents\School\fall_2020\IGME-340\DatabindingListview\DatabindingListview\DatabindingListview\bin\Debug\netstandard2.0\DatabindingListview.deps.json
+D:\Documents\School\fall_2020\IGME-340\DatabindingListview\DatabindingListview\DatabindingListview\bin\Debug\netstandard2.0\DatabindingListview.dll
+D:\Documents\School\fall_2020\IGME-340\DatabindingListview\DatabindingListview\DatabindingListview\bin\Debug\netstandard2.0\ref\DatabindingListview.dll
+D:\Documents\School\fall_2020\IGME-340\DatabindingListview\DatabindingListview\DatabindingListview\bin\Debug\netstandard2.0\DatabindingListview.pdb
+D:\Documents\School\fall_2020\IGME-340\DatabindingListview\DatabindingListview\DatabindingListview\obj\Debug\netstandard2.0\DatabindingListview.csprojAssemblyReference.cache
+D:\Documents\School\fall_2020\IGME-340\DatabindingListview\DatabindingListview\DatabindingListview\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Documents\School\fall_2020\IGME-340\DatabindingListview\DatabindingListview\DatabindingListview\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Documents\School\fall_2020\IGME-340\DatabindingListview\DatabindingListview\DatabindingListview\obj\Debug\netstandard2.0\DatabindingListview.AssemblyInfoInputs.cache
+D:\Documents\School\fall_2020\IGME-340\DatabindingListview\DatabindingListview\DatabindingListview\obj\Debug\netstandard2.0\DatabindingListview.AssemblyInfo.cs
+D:\Documents\School\fall_2020\IGME-340\DatabindingListview\DatabindingListview\DatabindingListview\obj\Debug\netstandard2.0\DatabindingListview.csproj.CoreCompileInputs.cache
+D:\Documents\School\fall_2020\IGME-340\DatabindingListview\DatabindingListview\DatabindingListview\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Documents\School\fall_2020\IGME-340\DatabindingListview\DatabindingListview\DatabindingListview\obj\Debug\netstandard2.0\DatabindingListview.dll
+D:\Documents\School\fall_2020\IGME-340\DatabindingListview\DatabindingListview\DatabindingListview\obj\Debug\netstandard2.0\ref\DatabindingListview.dll
+D:\Documents\School\fall_2020\IGME-340\DatabindingListview\DatabindingListview\DatabindingListview\obj\Debug\netstandard2.0\DatabindingListview.pdb
