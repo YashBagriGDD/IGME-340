@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Motivator.MainPage">
+
+    <Grid BackgroundColor="Black">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="75" />
+            <RowDefinition Height="75" />
+            <RowDefinition Height="75" />
+            <RowDefinition Height="80" />
+            <RowDefinition Height="75" />
+            <RowDefinition Height="75" />
+            <RowDefinition Height="75" />
+            <RowDefinition Height="75" />
+            <RowDefinition Height="75" />
+        </Grid.RowDefinitions>
+
+        <Label x:Name="Title" Text="Motivator!" TextColor="White" FontSize="50" Grid.Row="0" FontAttributes="Bold" HorizontalTextAlignment="Center"/>
+        <Label x:Name="sayingLabel" Text="Tap a button to get motivated!" TextColor="White" FontSize="30" FontAttributes="Italic" Grid.Row="3"/>
+        <Button Text="Eat Vegetables!" FontSize="35" Grid.Row="6" Clicked="Button_Clicked"/>
+        <Button Text="Get Exercise!" FontSize="35" Grid.Row="7" Clicked="Button_Exercise" />
+    </Grid>
+
+</ContentPage>

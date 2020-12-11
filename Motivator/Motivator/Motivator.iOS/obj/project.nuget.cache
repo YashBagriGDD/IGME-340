@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "4qszoQ1O7heRJSZi15oneZO5Cu83oX/hwcZ6oiXqwDomW9w5NsmQBbEbA2ALL6iO3twtUdxYGlY6O1r58/cwuw==",
+  "success": true,
+  "projectFilePath": "D:\\Documents\\School\\fall_2020\\IGME-340\\Motivator\\Motivator\\Motivator.iOS\\Motivator.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Forms from 4.8.0.1560 to 4.6.0.1141. Reference the package directly from the project to select a different version. \r\n Motivator.iOS -> Motivator -> Xamarin.Forms (>= 4.8.0.1560) \r\n Motivator.iOS -> Xamarin.Forms (>= 4.6.0.1141)",
+      "libraryId": "Xamarin.Forms",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    }
+  ]
+}

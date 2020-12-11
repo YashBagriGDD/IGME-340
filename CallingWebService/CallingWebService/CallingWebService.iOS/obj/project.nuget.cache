@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "2GOhpxk6K3nLxaXmoZvW3XVqO93IFjddgDIM7Sq9s411W3KP8YpG6xiPLwYb46PdVwdnLngYNerJiWYTNG8agg==",
+  "success": true,
+  "projectFilePath": "D:\\Documents\\School\\fall_2020\\IGME-340\\CallingWebService\\CallingWebService\\CallingWebService.iOS\\CallingWebService.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ybagr\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512",
+    "C:\\Users\\ybagr\\.nuget\\packages\\xamarin.forms.maps\\4.8.0.1687\\xamarin.forms.maps.4.8.0.1687.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Forms from 4.8.0.1687 to 4.6.0.1141. Reference the package directly from the project to select a different version. \r\n CallingWebService.iOS -> CallingWebService -> Xamarin.Forms (>= 4.8.0.1687) \r\n CallingWebService.iOS -> Xamarin.Forms (>= 4.6.0.1141)",
+      "libraryId": "Xamarin.Forms",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    }
+  ]
+}

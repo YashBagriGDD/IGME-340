@@ -1,0 +1,14 @@
+D:\Documents\School\fall_2020\IGME-340\Motivator\Motivator\Motivator\bin\Debug\netstandard2.0\Motivator.deps.json
+D:\Documents\School\fall_2020\IGME-340\Motivator\Motivator\Motivator\bin\Debug\netstandard2.0\Motivator.dll
+D:\Documents\School\fall_2020\IGME-340\Motivator\Motivator\Motivator\bin\Debug\netstandard2.0\ref\Motivator.dll
+D:\Documents\School\fall_2020\IGME-340\Motivator\Motivator\Motivator\bin\Debug\netstandard2.0\Motivator.pdb
+D:\Documents\School\fall_2020\IGME-340\Motivator\Motivator\Motivator\obj\Debug\netstandard2.0\Motivator.csprojAssemblyReference.cache
+D:\Documents\School\fall_2020\IGME-340\Motivator\Motivator\Motivator\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Documents\School\fall_2020\IGME-340\Motivator\Motivator\Motivator\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Documents\School\fall_2020\IGME-340\Motivator\Motivator\Motivator\obj\Debug\netstandard2.0\Motivator.AssemblyInfoInputs.cache
+D:\Documents\School\fall_2020\IGME-340\Motivator\Motivator\Motivator\obj\Debug\netstandard2.0\Motivator.AssemblyInfo.cs
+D:\Documents\School\fall_2020\IGME-340\Motivator\Motivator\Motivator\obj\Debug\netstandard2.0\Motivator.csproj.CoreCompileInputs.cache
+D:\Documents\School\fall_2020\IGME-340\Motivator\Motivator\Motivator\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Documents\School\fall_2020\IGME-340\Motivator\Motivator\Motivator\obj\Debug\netstandard2.0\Motivator.dll
+D:\Documents\School\fall_2020\IGME-340\Motivator\Motivator\Motivator\obj\Debug\netstandard2.0\ref\Motivator.dll
+D:\Documents\School\fall_2020\IGME-340\Motivator\Motivator\Motivator\obj\Debug\netstandard2.0\Motivator.pdb

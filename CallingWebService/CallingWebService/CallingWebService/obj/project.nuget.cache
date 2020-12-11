@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vfu3Dz01oKWttTpEf3S0MVukQSWL8TcXTPQGqz7NMH74ck4B5yTvmtzZuYTI4bdcN1XL0+l/I8wWQUHSQzjQSg==",
+  "success": true,
+  "projectFilePath": "D:\\Documents\\School\\fall_2020\\IGME-340\\CallingWebService\\CallingWebService\\CallingWebService\\CallingWebService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\ybagr\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\ybagr\\.nuget\\packages\\xamarin.forms\\4.8.0.1687\\xamarin.forms.4.8.0.1687.nupkg.sha512",
+    "C:\\Users\\ybagr\\.nuget\\packages\\xamarin.forms.maps\\4.8.0.1687\\xamarin.forms.maps.4.8.0.1687.nupkg.sha512"
+  ],
+  "logs": []
+}

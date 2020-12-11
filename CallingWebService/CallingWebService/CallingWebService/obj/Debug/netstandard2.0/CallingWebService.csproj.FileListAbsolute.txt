@@ -1,0 +1,16 @@
+D:\Documents\School\fall_2020\IGME-340\CallingWebService\CallingWebService\CallingWebService\bin\Debug\netstandard2.0\CallingWebService.deps.json
+D:\Documents\School\fall_2020\IGME-340\CallingWebService\CallingWebService\CallingWebService\bin\Debug\netstandard2.0\CallingWebService.dll
+D:\Documents\School\fall_2020\IGME-340\CallingWebService\CallingWebService\CallingWebService\obj\Debug\netstandard2.0\CallingWebService.csprojAssemblyReference.cache
+D:\Documents\School\fall_2020\IGME-340\CallingWebService\CallingWebService\CallingWebService\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Documents\School\fall_2020\IGME-340\CallingWebService\CallingWebService\CallingWebService\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Documents\School\fall_2020\IGME-340\CallingWebService\CallingWebService\CallingWebService\obj\Debug\netstandard2.0\CallingWebService.AssemblyInfoInputs.cache
+D:\Documents\School\fall_2020\IGME-340\CallingWebService\CallingWebService\CallingWebService\obj\Debug\netstandard2.0\CallingWebService.AssemblyInfo.cs
+D:\Documents\School\fall_2020\IGME-340\CallingWebService\CallingWebService\CallingWebService\bin\Debug\netstandard2.0\ref\CallingWebService.dll
+D:\Documents\School\fall_2020\IGME-340\CallingWebService\CallingWebService\CallingWebService\bin\Debug\netstandard2.0\CallingWebService.pdb
+D:\Documents\School\fall_2020\IGME-340\CallingWebService\CallingWebService\CallingWebService\obj\Debug\netstandard2.0\CallingWebService.dll
+D:\Documents\School\fall_2020\IGME-340\CallingWebService\CallingWebService\CallingWebService\obj\Debug\netstandard2.0\ref\CallingWebService.dll
+D:\Documents\School\fall_2020\IGME-340\CallingWebService\CallingWebService\CallingWebService\obj\Debug\netstandard2.0\CallingWebService.pdb
+D:\Documents\School\fall_2020\IGME-340\CallingWebService\CallingWebService\CallingWebService\obj\Debug\netstandard2.0\AboutPage.xaml.g.cs
+D:\Documents\School\fall_2020\IGME-340\CallingWebService\CallingWebService\CallingWebService\obj\Debug\netstandard2.0\MapPage.xaml.g.cs
+D:\Documents\School\fall_2020\IGME-340\CallingWebService\CallingWebService\CallingWebService\obj\Debug\netstandard2.0\CallingWebService.csproj.CoreCompileInputs.cache
+D:\Documents\School\fall_2020\IGME-340\CallingWebService\CallingWebService\CallingWebService\obj\Debug\netstandard2.0\XamlC.stamp

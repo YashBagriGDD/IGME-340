@@ -141,7 +141,7 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Xamarin.Essentials": "1.5.3.2",
-          "Xamarin.Forms": "4.8.0.1451"
+          "Xamarin.Forms": "4.8.0.1560"
         },
         "compile": {
           "bin/placeholder/DatabindingListview.dll": {}
@@ -291,7 +291,7 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Xamarin.Essentials": "1.5.3.2",
-          "Xamarin.Forms": "4.8.0.1451"
+          "Xamarin.Forms": "4.8.0.1560"
         },
         "compile": {
           "bin/placeholder/DatabindingListview.dll": {}
@@ -441,7 +441,7 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Xamarin.Essentials": "1.5.3.2",
-          "Xamarin.Forms": "4.8.0.1451"
+          "Xamarin.Forms": "4.8.0.1560"
         },
         "compile": {
           "bin/placeholder/DatabindingListview.dll": {}
@@ -591,7 +591,7 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Xamarin.Essentials": "1.5.3.2",
-          "Xamarin.Forms": "4.8.0.1451"
+          "Xamarin.Forms": "4.8.0.1560"
         },
         "compile": {
           "bin/placeholder/DatabindingListview.dll": {}
@@ -984,11 +984,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\School\\fall_2020\\IGME-340\\DatabindingListview\\DatabindingListview\\DatabindingListview.iOS\\DatabindingListview.iOS.csproj",
+      "projectUniqueName": "D:\\Documents\\School\\fall_2020\\IGME-340\\DatabindingListView\\DatabindingListview\\DatabindingListview.iOS\\DatabindingListview.iOS.csproj",
       "projectName": "DatabindingListview.iOS",
-      "projectPath": "D:\\Documents\\School\\fall_2020\\IGME-340\\DatabindingListview\\DatabindingListview\\DatabindingListview.iOS\\DatabindingListview.iOS.csproj",
+      "projectPath": "D:\\Documents\\School\\fall_2020\\IGME-340\\DatabindingListView\\DatabindingListview\\DatabindingListview.iOS\\DatabindingListview.iOS.csproj",
       "packagesPath": "C:\\Users\\ybagr\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\School\\fall_2020\\IGME-340\\DatabindingListview\\DatabindingListview\\DatabindingListview.iOS\\obj\\",
+      "outputPath": "D:\\Documents\\School\\fall_2020\\IGME-340\\DatabindingListView\\DatabindingListview\\DatabindingListview.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1009,8 +1009,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "D:\\Documents\\School\\fall_2020\\IGME-340\\DatabindingListview\\DatabindingListview\\DatabindingListview\\DatabindingListview.csproj": {
-              "projectPath": "D:\\Documents\\School\\fall_2020\\IGME-340\\DatabindingListview\\DatabindingListview\\DatabindingListview\\DatabindingListview.csproj"
+            "D:\\Documents\\School\\fall_2020\\IGME-340\\DatabindingListView\\DatabindingListview\\DatabindingListview\\DatabindingListview.csproj": {
+              "projectPath": "D:\\Documents\\School\\fall_2020\\IGME-340\\DatabindingListView\\DatabindingListview\\DatabindingListview\\DatabindingListview.csproj"
             }
           }
         }
@@ -1047,7 +1047,7 @@
       "code": "NU1605",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Detected package downgrade: Xamarin.Forms from 4.8.0.1451 to 4.6.0.1141. Reference the package directly from the project to select a different version. \r\n DatabindingListview.iOS -> DatabindingListview -> Xamarin.Forms (>= 4.8.0.1451) \r\n DatabindingListview.iOS -> Xamarin.Forms (>= 4.6.0.1141)",
+      "message": "Detected package downgrade: Xamarin.Forms from 4.8.0.1560 to 4.6.0.1141. Reference the package directly from the project to select a different version. \r\n DatabindingListview.iOS -> DatabindingListview -> Xamarin.Forms (>= 4.8.0.1560) \r\n DatabindingListview.iOS -> Xamarin.Forms (>= 4.6.0.1141)",
       "libraryId": "Xamarin.Forms",
       "targetGraphs": [
         "Xamarin.iOS,Version=v1.0",

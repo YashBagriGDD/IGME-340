@@ -24,7 +24,7 @@ namespace DatabindingListView.ViewModels {
         }
 
         private void Add() {
-            Levels.Add(new GameLevel { LevelNumber = Levels.Count, Name = "added level " + Levels.Count + 1});
+            Levels.Add(new GameLevel { LevelNumber = Levels.Count, Name = "added level " + (Levels.Count+1)});
         }
 
         private void Remove() {

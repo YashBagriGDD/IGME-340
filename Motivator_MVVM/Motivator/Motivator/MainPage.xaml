@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Motivator.MainPage">
+
+    <Grid BackgroundColor="Black">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="75" />
+            <RowDefinition Height="75" />
+            <RowDefinition Height="75" />
+            <RowDefinition Height="80" />
+            <RowDefinition Height="75" />
+            <RowDefinition Height="75" />
+            <RowDefinition Height="75" />
+            <RowDefinition Height="75" />
+            <RowDefinition Height="75" />
+        </Grid.RowDefinitions>
+
+        <Label x:Name="Title" Text="{Binding Title}" TextColor="White" FontSize="50" Grid.Row="0" FontAttributes="Bold" HorizontalTextAlignment="Center"/>
+        <Label x:Name="sayingLabel" Text="{Binding SayingText}" TextColor="White" FontSize="30" FontAttributes="Italic" Grid.Row="3"/>
+        <Button Text="{Binding CategoryText}" FontSize="35" Grid.Row="6" Command="{Binding MotivateCommand}"/>
+        <Button Text="{Binding CategoryText2}" FontSize="35" Grid.Row="7" Command="{Binding MotivateCommand2}" />
+    </Grid>
+
+</ContentPage>

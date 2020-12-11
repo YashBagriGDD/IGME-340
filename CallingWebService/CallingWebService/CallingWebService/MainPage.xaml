@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:CallingWebService"
+             x:Class="CallingWebService.MainPage">
+
+    <ContentPage.BindingContext>
+        <vm:MainPageViewModel />
+    </ContentPage.BindingContext>
+    <ContentPage.Resources>
+        <Style TargetType="Label">
+            <Setter Property="FontSize" Value="Large" />
+        </Style>
+    </ContentPage.Resources>
+    <StackLayout>
+        <Grid ColumnSpacing="5" Margin="5,5,5,5">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="35" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="3*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Button Clicked="MoveAboutPage" Text="About" Grid.Column="1" Style="{StaticResource Key=ButtonStyle}" BackgroundColor="LightGreen"/>
+            <Button Clicked="MakeMap" Text="New map" Grid.Column="0" Style="{StaticResource Key=ButtonStyle}" />
+        </Grid>
+        <CollectionView ItemsSource="{Binding Data}">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Grid Padding="0,0,0,5" BackgroundColor="Black">
+                        <Label Text="{Binding name}" BackgroundColor="White" Padding="5"/>
+                        <Label Text="{Binding studio}" Grid.Column="1" BackgroundColor="White" Padding="5"/>
+                    </Grid>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+        <Grid ColumnSpacing="5" Margin="5,5,5,5" >
+            <Grid.RowDefinitions>
+                <RowDefinition Height="35" />
+            </Grid.RowDefinitions>
+            <Button Command="{Binding SearchCommand}" Text="Search" Grid.Column="0" Style="{StaticResource Key=ButtonStyle}"/>
+            <Button Command="{Binding SearchMoreCommand}" Text="100" Grid.Column="1" Style="{StaticResource Key=ButtonStyle}"/>
+            <Button Command="{Binding ClearCommand}" Text="Clear" Grid.Column="2" Style="{StaticResource Key=ButtonStyle}" BackgroundColor="Red"/>
+        </Grid>
+    </StackLayout>
+
+</ContentPage>

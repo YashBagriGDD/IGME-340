@@ -1,0 +1,14 @@
+D:\Documents\School\fall_2020\IGME-340\Hello RIT\Hello RIT\Hello RIT\bin\Debug\netstandard2.0\Hello RIT.deps.json
+D:\Documents\School\fall_2020\IGME-340\Hello RIT\Hello RIT\Hello RIT\bin\Debug\netstandard2.0\Hello RIT.dll
+D:\Documents\School\fall_2020\IGME-340\Hello RIT\Hello RIT\Hello RIT\bin\Debug\netstandard2.0\ref\Hello RIT.dll
+D:\Documents\School\fall_2020\IGME-340\Hello RIT\Hello RIT\Hello RIT\bin\Debug\netstandard2.0\Hello RIT.pdb
+D:\Documents\School\fall_2020\IGME-340\Hello RIT\Hello RIT\Hello RIT\obj\Debug\netstandard2.0\Hello RIT.csprojAssemblyReference.cache
+D:\Documents\School\fall_2020\IGME-340\Hello RIT\Hello RIT\Hello RIT\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Documents\School\fall_2020\IGME-340\Hello RIT\Hello RIT\Hello RIT\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Documents\School\fall_2020\IGME-340\Hello RIT\Hello RIT\Hello RIT\obj\Debug\netstandard2.0\Hello RIT.AssemblyInfoInputs.cache
+D:\Documents\School\fall_2020\IGME-340\Hello RIT\Hello RIT\Hello RIT\obj\Debug\netstandard2.0\Hello RIT.AssemblyInfo.cs
+D:\Documents\School\fall_2020\IGME-340\Hello RIT\Hello RIT\Hello RIT\obj\Debug\netstandard2.0\Hello RIT.csproj.CoreCompileInputs.cache
+D:\Documents\School\fall_2020\IGME-340\Hello RIT\Hello RIT\Hello RIT\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Documents\School\fall_2020\IGME-340\Hello RIT\Hello RIT\Hello RIT\obj\Debug\netstandard2.0\Hello RIT.dll
+D:\Documents\School\fall_2020\IGME-340\Hello RIT\Hello RIT\Hello RIT\obj\Debug\netstandard2.0\ref\Hello RIT.dll
+D:\Documents\School\fall_2020\IGME-340\Hello RIT\Hello RIT\Hello RIT\obj\Debug\netstandard2.0\Hello RIT.pdb

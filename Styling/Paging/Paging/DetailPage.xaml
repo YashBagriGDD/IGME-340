@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:Paging.ViewModels"
+             x:Class="Paging.DetailPage">
+
+    
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="{Binding Data.Name}" Style="{StaticResource Key=HeaderStyle}"/>
+            <Label Text="{Binding Data.Genre}" />
+            <Label Text="{Binding Data.YearOfRelease}" FontAttributes="Italic" />
+            <Label Text="{Binding Data.Rating}" />
+            <Label Text="{Binding Data.Platform}" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

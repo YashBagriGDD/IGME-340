@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Paging.AboutPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="App by Yash Bagri" Style="{StaticResource Key=AboutStyle}" FontAttributes="Bold" />
+            <Label Text="This app is about different games and showing their details! Click the game to see more about it!" Style="{StaticResource Key=AboutStyle}"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

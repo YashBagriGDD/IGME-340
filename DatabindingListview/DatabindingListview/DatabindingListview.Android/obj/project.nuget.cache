@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hp8qh7Gi8fvAE1KoLQ8IHuK9Y2Pp15LFQiHxFDsAVmhRuTllVgxdLv33zb2Jj0ylqiXMFXLqEpI5Wdupokr8iA==",
+  "dgSpecHash": "6wDSR694GQMBTAvKZhZgJKLLAwvKqltMOySxCBkl2rPLb8fSFySJ2/ZVWGAaRMcFYSo5y1eLHsqDFhJKBJzY0Q==",
   "success": true,
-  "projectFilePath": "D:\\Documents\\School\\fall_2020\\IGME-340\\DatabindingListview\\DatabindingListview\\DatabindingListview.Android\\DatabindingListview.Android.csproj",
+  "projectFilePath": "D:\\Documents\\School\\fall_2020\\IGME-340\\DatabindingListView\\DatabindingListview\\DatabindingListview.Android\\DatabindingListview.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.runtime\\1.1.1.3\\xamarin.android.arch.core.runtime.1.1.1.3.nupkg.sha512",
@@ -49,7 +49,7 @@
       "code": "NU1605",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Detected package downgrade: Xamarin.Forms from 4.8.0.1451 to 4.6.0.1141. Reference the package directly from the project to select a different version. \r\n DatabindingListview.Android -> DatabindingListview -> Xamarin.Forms (>= 4.8.0.1451) \r\n DatabindingListview.Android -> Xamarin.Forms (>= 4.6.0.1141)",
+      "message": "Detected package downgrade: Xamarin.Forms from 4.8.0.1560 to 4.6.0.1141. Reference the package directly from the project to select a different version. \r\n DatabindingListview.Android -> DatabindingListview -> Xamarin.Forms (>= 4.8.0.1560) \r\n DatabindingListview.Android -> Xamarin.Forms (>= 4.6.0.1141)",
       "libraryId": "Xamarin.Forms",
       "targetGraphs": [
         "MonoAndroid,Version=v9.0"

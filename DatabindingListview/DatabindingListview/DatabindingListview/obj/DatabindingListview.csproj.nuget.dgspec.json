@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\School\\fall_2020\\IGME-340\\DatabindingListview\\DatabindingListview\\DatabindingListview\\DatabindingListview.csproj": {}
+    "D:\\Documents\\School\\fall_2020\\IGME-340\\DatabindingListView\\DatabindingListview\\DatabindingListview\\DatabindingListview.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\School\\fall_2020\\IGME-340\\DatabindingListview\\DatabindingListview\\DatabindingListview\\DatabindingListview.csproj": {
+    "D:\\Documents\\School\\fall_2020\\IGME-340\\DatabindingListView\\DatabindingListview\\DatabindingListview\\DatabindingListview.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\School\\fall_2020\\IGME-340\\DatabindingListview\\DatabindingListview\\DatabindingListview\\DatabindingListview.csproj",
+        "projectUniqueName": "D:\\Documents\\School\\fall_2020\\IGME-340\\DatabindingListView\\DatabindingListview\\DatabindingListview\\DatabindingListview.csproj",
         "projectName": "DatabindingListview",
-        "projectPath": "D:\\Documents\\School\\fall_2020\\IGME-340\\DatabindingListview\\DatabindingListview\\DatabindingListview\\DatabindingListview.csproj",
+        "projectPath": "D:\\Documents\\School\\fall_2020\\IGME-340\\DatabindingListView\\DatabindingListview\\DatabindingListview\\DatabindingListview.csproj",
         "packagesPath": "C:\\Users\\ybagr\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\School\\fall_2020\\IGME-340\\DatabindingListview\\DatabindingListview\\DatabindingListview\\obj\\",
+        "outputPath": "D:\\Documents\\School\\fall_2020\\IGME-340\\DatabindingListView\\DatabindingListview\\DatabindingListview\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -55,7 +55,7 @@
             },
             "Xamarin.Forms": {
               "target": "Package",
-              "version": "[4.8.0.1451, )"
+              "version": "[4.8.0.1560, )"
             }
           },
           "imports": [
